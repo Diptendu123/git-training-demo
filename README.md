@@ -5,7 +5,7 @@ A simple web application used as a **live Git training exercise**. Team members 
 ## The Goal
 
 Each participant will:
-1. Clone the repo
+1. Clone the repo asdfasgasgasg
 2. Create a branch
 3. Add their profile card to `index.html`
 4. Push and raise a Pull Request
